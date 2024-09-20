@@ -1,1 +1,1 @@
-# OCR_PDF_text_extraction_-_CSV_Conversion
+# OCR_PDF_text_extraction_&_CSV_Conversion
